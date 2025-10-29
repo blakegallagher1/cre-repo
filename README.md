@@ -1,1 +1,1 @@
-# cre-repo
+# CRE AI Framework
